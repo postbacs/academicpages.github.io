@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Ongoing Projects"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,9 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Who we are
-======
+* Using machine learning to predict small molecule properties
+* General machine learning using Python
+* Website development
 
-
-What we do
+Current Members
 ======
+* Christina Stephens
+* Ben Cohen
+* Luli Zou
+* Sarah Lucas
+* Azhar Khandekar
+
+Alumni
+======
+* Sunmee Huh
+* Alejandro Morales Martinez
+* Alex George
+* David Rosenberg
