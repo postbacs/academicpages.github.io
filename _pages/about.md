@@ -26,3 +26,4 @@ Alumni
 * Alejandro Morales Martinez
 * Alex George
 * David Rosenberg
+* Maxim Jestin
