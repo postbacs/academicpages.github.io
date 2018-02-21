@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Ongoing Projects"
+title: "Home"
 excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+We meet weekly to code and work collaboratively towards common goals. Our current projects include:
 
 * Using machine learning to predict small molecule properties
 * General machine learning using Python
