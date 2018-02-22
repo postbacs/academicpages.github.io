@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Postbac Coding Group"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Postbacs"
 description              : &description "A community of postbacs dedicated to coding and coding outreach."
