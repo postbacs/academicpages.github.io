@@ -9,9 +9,10 @@ redirect_from:
 ---
 We meet weekly to code and work collaboratively towards common goals. Our current projects include:
 
-* Using machine learning to predict small molecule properties
 * General machine learning using Python
+* Predicting physical properties of molecules (SAMPL contest)
 * Website development
+* Coding outreach
 
 Current Members
 ======
@@ -20,6 +21,8 @@ Current Members
 * Luli Zou
 * Sarah Lucas
 * Azhar Khandekar
+* Richard Bradshaw
+* Jesse Matsubara
 
 Alumni
 ======

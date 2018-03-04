@@ -7,15 +7,21 @@ author_profile: true
 # Current Projects
 __General machine learning with Python__
 
-Members of this project are self-teaching the fundamentals of machine learning in Python, e.g. coding k-means and regression algorithms from scratch. Goals include applying these algorithms to real data and learning the fundamentals of deep learning. Group members: Ben, Azhar.
+Members of this project are self-teaching the fundamentals of machine learning in Python, e.g. coding k-means and regression algorithms from scratch. Goals include applying these algorithms to real data and learning the fundamentals of deep learning. Group members: Ben, Azhar, Jesse.
 
-__Using machine learning to predict small molecule properties__
+__The SAMPL contest__
 
-Group members: Christina, Richard, Sarah.
+The [SAMPL contest](https://github.com/MobleyLab/SAMPL6) is a set of challenges designed to test the latest molecular simulation methods for their ability to predict physical properties of molecules without prior knowledge of the experimental result. Members are interested in writing code to predict pKa values for the SAMPL6 dataset of small molecules, mainly to advance understanding of the underlying chemistry and physics. This will include learning...
+* how to convert chemical formulae into 3D structures
+* how to generate alternative conformers for molecules
+* how to implement (or link out to) a free energy calculation technique
+
+...and much more!
+Group members: Christina, Richard, Jude, Sarah.
 
 __Website development__
 
-Essentially, building this website and making it prettier. Group member: Luli.
+Building this website and making it prettier. Group member: Luli.
 
 __Coding outreach__
 
