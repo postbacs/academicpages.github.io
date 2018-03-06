@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-We meet weekly to code and work collaboratively towards common goals. Our current projects include:
+![Polynomial](/images/polynomial.png)
+_Featured Figure: Ben's PowerShell screen for using MCMC to fit a polynomial [[link to code](https://github.com/benja-matic/Machine-Learning/blob/master/Example_Codes/MCMC_toy_example.py)]._
+
+Hello! We meet weekly to code and work collaboratively towards common goals. Our current projects include:
 
 * General machine learning using Python
 * Predicting physical properties of molecules (SAMPL contest)
@@ -17,8 +20,8 @@ We meet weekly to code and work collaboratively towards common goals. Our curren
 Current Members
 ======
 * Christina Stephens
-* Ben Cohen
-* Luli Zou
+* Ben Cohen [[Github](https://github.com/benja-matic)]
+* Luli Zou [[Github](https://github.com/lulizou)]
 * Sarah Lucas
 * Azhar Khandekar
 * Richard Bradshaw

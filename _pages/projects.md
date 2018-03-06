@@ -7,6 +7,8 @@ author_profile: true
 # Current Projects
 __General machine learning with Python__
 
+![Clustering](/images/ml-clustering.png)
+
 Members of this project are self-teaching the fundamentals of machine learning in Python, e.g. coding k-means and regression algorithms from scratch. Goals include applying these algorithms to real data and learning the fundamentals of deep learning. Group members: Ben, Azhar, Jesse.
 
 __The SAMPL contest__
